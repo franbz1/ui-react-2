@@ -12,7 +12,7 @@ const Chef = () => (
         alt='chef_image'
       />
     </div>
-    <div className='app__wrapper_info'>
+    <div className='app__chef-content_info'>
       <SubHeading title="Chef's word" />
       <h1 className='headtext__cormorant'>What we believe in</h1>
 
